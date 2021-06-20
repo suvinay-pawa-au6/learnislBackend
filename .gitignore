@@ -1,0 +1,8 @@
+node_modules/
+
+start-local.sh
+# Elastic Beanstalk Files
+.elasticbeanstalk/
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
