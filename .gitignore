@@ -2,6 +2,7 @@ node_modules/
 
 start-local.sh
 # Elastic Beanstalk Files
+.env
 .elasticbeanstalk/
 .elasticbeanstalk/*
 !.elasticbeanstalk/*.cfg.yml
